@@ -1,0 +1,17 @@
+// Este es un comentario en JavaScript en una sola línea, su web más usada es https://developer.mozilla.org/en-US/
+
+/* Este es un comentrio de 
+varios renglones en 
+este mismo lenguale */
+
+let myNumber = '8';
+const a = '7';
+
+let myString = 'Bob';
+let myNum = '8';
+let myBoolean = 'true';
+let myBoolean1 = 'false';
+let myArray = ['1','Bob','10'];
+let myObject = {name: 'sebastian', age: '25'};
+
+console.log ('¡Hola, Javascript!'); 
